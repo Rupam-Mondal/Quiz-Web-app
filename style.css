@@ -36,7 +36,17 @@ body{
     font-size: 25px;
     color: blue;
 }
-
+.scoreboard{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-weight: 500;
+    font-size: 30px;
+    display: none;
+}
 .question-section{
     height: 250px;
     width: 100%;
